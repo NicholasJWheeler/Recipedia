@@ -29,11 +29,6 @@ const firebaseApp = initializeApp({
 const loginEmailPassword = async () => {
     const loginEmail = txtEmail.value
     const loginPassword = txtPassword.value
-  
-    // step 1: try doing this w/o error handling, and then add try/catch
-    //await signInWithEmailAndPassword(authentication, loginEmail, loginPassword)
-  
-    //step 2: add error handling
     try {
       await signInWithEmailAndPassword(authentication, loginEmail, loginPassword)
     }
