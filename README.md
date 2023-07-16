@@ -13,7 +13,7 @@
 		<td>
 			<a href="#-about-the-class">🎓  About The Class</a><br><br>
 			<a href="#%E2%84%B9-about-the-application">ℹ About The Application</a><br><br>
-			<a href="#-the-features-of-recipedia">🧑‍🍳 Recipedia Features</a>
+			<a href="#-recipedia-features">🧑‍🍳 Recipedia Features</a>
 			<ul>
         <li><a href="#-user-authentication">🍓 User Authentication</a></li>
 				<li><a href="#-ingredient-list-and-nosql-database">🫐 Ingredient List and NoSQL Database</a></li>
