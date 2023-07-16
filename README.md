@@ -73,7 +73,7 @@ When starting this project, I had no knowledge about hosting websites besides on
 ### 🥄 Spoonacular API
 <b>API Used:</b>
 <ul>
-	<li><a href="https://spoonacular.com/food-api">Spoonacular's Food API</a></li>
+	<li><a href="https://spoonacular.com/food-api" target="_blank">Spoonacular's Food API</a></li>
 </ul>
 This project was the first time I worked with APIs, and I was surprised at how easy they were to use when integrating JavaScript into a website. The Spoonacular API is essentially a huge database of meals with extensive documentation on the ingredients and dietary contents of each dish. I realized that once we had our user's ingredients, we needed to be able to suggest likely dishes that they could make with their ingredients, so Spoonacular provided the perfect solution to our problem. <br><br>
 
