@@ -32,7 +32,7 @@
 
 ## 🎓 About The Class
 #### CSE201 - Intro to Software Engineering
-I took this during my sophomore year of college in the spring of 2021. This 15-week course covered different software development topics and explored all of the fundamental ideas of being part of a software development team and what kinds of team processes are used today. The course allowed me to work with a group of computer science students to develop any application that involved a catalog of items. Our team performed weekly check-ins with our client (the class TA) and we tracked our progress for 3 separate class presentations to display the development process.
+I took this during my sophomore year of college in the spring of 2023. This 15-week course covered different software development topics and explored all of the fundamental ideas of being part of a software development team and what kinds of team processes are used today. The course allowed me to work with a group of computer science students to develop any application that involved a catalog of items. Our team performed weekly check-ins with our client (the class TA) and we tracked our progress for 3 separate class presentations to display the development process.
 
 
 <br><br><br>
